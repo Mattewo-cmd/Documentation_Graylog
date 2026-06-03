@@ -361,7 +361,7 @@ On attend que le certificat s'installe bien, et ensuite on finit la configuratio
 
 * **Schéma :** `nom du site` -> `Contenu` -> `backend`
 
-### Fichier guacamole.conf
+### Fichier graylog.conf
 
 # Redirection de HTTP (80) vers HTTPS (443)
 ```apache
